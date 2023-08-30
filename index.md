@@ -1,4 +1,1 @@
-# This is a H1 header
-## h2 
-### h3
-play with headers
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
